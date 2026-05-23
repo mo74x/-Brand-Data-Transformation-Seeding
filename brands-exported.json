@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "yearFounded": 1970
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "yearFounded": 1980
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "headquarters": "DuBuqueburgh"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brandName": "Licensed Concrete Tuna"
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c01b",
+    "brandName": "Fadel, Veum and Powlowski",
+    "yearFounded": 2025,
+    "headquarters": "Merced",
+    "numberOfLocations": 1,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.189Z",
+    "updatedAt": "2026-05-23T02:02:44.189Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c01c",
+    "brandName": "Marvin - Raynor Tech",
+    "yearFounded": 2006,
+    "headquarters": "Chadfurt",
+    "numberOfLocations": 1503,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c01d",
+    "brandName": "Parker, Sawayn and Bailey Legacy",
+    "yearFounded": 1867,
+    "headquarters": "West Ofeliatown",
+    "numberOfLocations": 10917,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c01e",
+    "brandName": "Douglas, Pfeffer and Effertz Local",
+    "yearFounded": 2013,
+    "headquarters": "Rogahnfurt",
+    "numberOfLocations": 5,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c01f",
+    "brandName": "D'Amore, Borer-Mayer and West Global",
+    "yearFounded": 1982,
+    "headquarters": "North Albertshire",
+    "numberOfLocations": 755,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c020",
+    "brandName": "DuBuque - Rempel",
+    "yearFounded": 1997,
+    "headquarters": "Ornstead",
+    "numberOfLocations": 379,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c021",
+    "brandName": "Reilly Inc",
+    "yearFounded": 2015,
+    "headquarters": "Cummingsfort",
+    "numberOfLocations": 28,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c022",
+    "brandName": "D'Amore, Fritsch and Rodriguez Corp",
+    "yearFounded": 1920,
+    "headquarters": "Emiliofield",
+    "numberOfLocations": 159,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c023",
+    "brandName": "Murphy and Sons Boutique",
+    "yearFounded": 2026,
+    "headquarters": "Bel Air South",
+    "numberOfLocations": 2,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  },
+  {
+    "_id": "6a110ac4e6a4c83c9439c024",
+    "brandName": "Dach Inc",
+    "yearFounded": 1835,
+    "headquarters": "South Teresamouth",
+    "numberOfLocations": 610,
+    "__v": 0,
+    "createdAt": "2026-05-23T02:02:44.190Z",
+    "updatedAt": "2026-05-23T02:02:44.190Z"
+  }
+]
