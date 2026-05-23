@@ -5,7 +5,6 @@ import { dirname, join } from 'node:path';
 import { faker } from '@faker-js/faker';
 import ExcelJS from 'exceljs';
 import * as fs from 'node:fs';
-
 const { Schema } = mongoose;
 
 const brandSchema = new Schema({

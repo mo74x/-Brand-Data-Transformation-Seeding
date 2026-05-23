@@ -55,9 +55,8 @@ This command uses Node's native `--env-file` flag and `ts-node` to execute the s
 
 ## Project Structure
 
-- `index.ts`: The main execution script containing the logic for all tasks.
+- `index.ts`: The main execution script containing the logic for all tasks(mirror of brands-schema.ts).
 - `brands-schema.ts`: The Mongoose schema defining the exact data requirements.
 - `brands.json`: The initial source data containing schema errors.
-- `package.json`: Project dependencies and scripts.
 - `seed-cases.xlsx`: Generated Excel report outlining the seed data logic (generated after running).
 - `brands-exported.json`: The final exported clean data collection (generated after running).
